@@ -1,2 +1,2 @@
 # Successions-Solver-JS
-This program generates a formula for any numerical sequence you enter.
+This is the implementation of the succession code written in python in HTML.
