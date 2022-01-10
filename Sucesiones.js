@@ -141,7 +141,7 @@ function numero_a_calcular_1_m(rango, equis, n){
         }
         return total
     } else{
-        return 1
+        return sucesion[0];
     }
 }
 function numero_a_calcular_1_sum(rango, equis){
